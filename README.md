@@ -1,1 +1,3 @@
-# PROYECTO_DISE-O
+# ELECTRONIC SYSTEMS DESIGN PROJECT
+
+Hello everyone! I'm Karol Robles, an Electronics Engineering student at the Universidad Industrial de Santander, and in this project, we designed a battery-operated electronic circuit along with its PCB. This circuit aimed to measure the normal operating current and deep sleep current of a microcontroller, such as the ESP32, which alternated between these two modes every 10 seconds. The current measurements were wirelessly transmitted to a computer or mobile phone, and the circuit featured both manual and automatic modes for range switching. Throughout this project, we also considered factors like size, power consumption, and the cost of the assembled board to ensure its efficiency. I'm excited to have shared this design with you all!
